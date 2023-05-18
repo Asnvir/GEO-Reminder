@@ -1,3 +1,32 @@
 <resources>
+    <string name="save">Save</string>
     <string name="app_name">Geo-Reminder</string>
+    <string name="web_client_id">26659970464-bbnoaenurssocq6ngon06r6v71ese42i.apps.googleusercontent.com</string>
+    <string name="title_optional">Title(Optional)</string>
+    <string name="note_optional">Note(Optional)</string>
+    <string name="remind_me_here">Remind me here:</string>
+    <string name="not_selected_place_yet">You haven\\\'t selected a place or a place group yet.</string>
+    <string name="msg_place_was_removed">The place or place group linked to this reminder was removed</string>
+    <string name="msg_place_group_does_not_contain_any_place">This place group does not contain any place</string>
+    <string name="msg_empty_reminders">You haven\\\'t added any reminder yet, click the button down below and add your first reminder!</string>
+    <string name="new_reminder_caps">NEW REMINDER</string>
+    <string name="reminders">Reminders</string>
+    <string name="notes">Notes</string>
+    <string name="places">Places</string>
+    <string name="place_groups">Place Groups</string>
+    <string name="delete">Delete</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="delete_all">Delete All</string>
+    <string name="change_layout">Change Layout</string>
+    <string name="settings">Settings</string>
+    <string name="name_this_place">Name This Place</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="pick_a_place">Pick a Place</string>
+    <string name="msg_empty_places_dialog">You haven\\\'t added any place yet, click the + button add your first place!</string>
+    <string name="radius_text">%dm</string>
+    <string name="new_place_caps">NEW PLACE</string>
+    <string name="msg_empty_places">You haven\\\'t added any place yet, click the button down below and add your first place!</string>
+    <string name="add_to_reminder">Add to Reminder</string>
+    <string name="new_place">New Place</string>
 </resources>
